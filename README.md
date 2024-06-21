@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Frontend Developer<br>🔭 I’m currently working on Business Technology Solutions<br>🌱 I’m coding with React and Next.js<br>💬 Ask me about React and Nextjs<br>
+💻 Frontend Developer<br>🔭 I’m currently working on Catchprobe Intelligence Technology <br>🌱 I’m coding with React and Next.js<br>💬 Ask me about React and Nextjs<br>
 
 
 ## 🌐 Socials:
